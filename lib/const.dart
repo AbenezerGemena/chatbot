@@ -1,4 +1,4 @@
- const  openAiKey="sk-proj-CjNYJROn5WQDOzcTO6RQT3BlbkFJZSqvPMEENivTYUfIFwqe";
+ 
 
 
 
