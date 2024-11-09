@@ -46,7 +46,6 @@ class NavigationService {
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await setup();
-  print(12);
   runApp(
     MultiProvider(
       providers: [
